@@ -134,7 +134,7 @@ const Home = () => {
           <Desc>
             I enjoy crafting web content, remove digital bugs and moving weights.
           </Desc>
-          <Button>Learn More</Button>
+          <Button>Learn More about me</Button>
         </Left>
         <Right>
           <Canvas>
